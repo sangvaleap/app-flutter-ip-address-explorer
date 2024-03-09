@@ -1,4 +1,4 @@
-# IP-Checker
+# IP Address Explorer
 
 This app enables users to check IP Address information including location, ISP, timezone, etc.
 
