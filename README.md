@@ -26,7 +26,7 @@ In version 2.0, new updates:
 - iOS, Android, iPad, macOS
 
 # Screenshots
-<img width="1000" alt="Android" src="../../screenshots/screenshot.png">
+<img width="800" alt="Android" src="https://github.com/sangvaleap/app-flutter-ip-address-explorer/assets/86506519/d47d72a9-a1f1-4b2f-8df8-4007370afe45">
 
 # Development Setup
 - flutter pub get
